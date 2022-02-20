@@ -1,7 +1,7 @@
 # 👤 Portfolio Website
 
-> ### Checkout Website at https://iampavangandhi.github.io/
-> ### Deployed using [Github Pages](https://pages.github.com/)
+> ### Checkout Website at https://github.com/MAliffadlan
+> ### Deployed using [Github Pages](https://github.com/MAliffadlan?tab=repositories)
 
 ## Technologies Used
 
