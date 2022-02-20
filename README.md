@@ -13,11 +13,11 @@
 
 ## Contributing
 
-Feel free to dive in! [Open an issue](https://github.com/iampavangandhi/iampavangandhi.github.io/issues/new) or submit PRs
+Feel free to dive in! [Open an issue](https://blkkbaitulhikmahdepok.netlify.app/) or submit PRs
 
 ## License
 
-[Apache-2.0](LICENSE) © Pavan Gandhi
+[Apache-2.0](LICENSE) © BLKK PP Baitul Hikmah Depok
 
 ---
 
