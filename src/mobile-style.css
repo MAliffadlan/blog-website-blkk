@@ -59,19 +59,19 @@
     background: url(../assets/New\ Project.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 350%;
+    background-size: 100%;
   }
   .section-1 .screen:nth-child(2) {
     background: url(../assets/buku\ BLK.JPG);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 350%;
+    background-size: 100%;
   }
   .section-1 .screen:nth-child(3) {
     background: url(../assets/kreatif.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 350%;
+    background-size: 100%;
   }
 
   .section-2 .row .col-md-6 .panel {
